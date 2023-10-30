@@ -1013,4 +1013,4 @@ const capitalizeName = function(name){
 
 
 
-//-------------string Methods practice------
+
